@@ -1,0 +1,16 @@
+# Journal for Nov 6-7, 2019
+
+## Independent Learning
+
+On Wednesday, in between and after planning meetings, I watched the Pluralsight course on setting up a private container registry. I also spent about twenty minutes figuring out how to create a new retrospective in Azure Devops, leaving me feeling both moderately accomplished and a bit slow.
+
+## Workday Work
+
+I have a PBI that requires highly-performant checking for an infrequent event. My first-attempt implementation was a query against RavenDB, but the recommendation came back to implement the feature using RavenDB data subscriptions.
+
+## Links
+
+* [RavenDB Data Subscriptions: How to Create a Data Subscription](https://ravendb.net/docs/article-page/4.1/csharp/client-api/data-subscriptions/creation/how-to-create-data-subscription)
+* [RavenDB Data Subscriptions: Creation API Overview](https://ravendb.net/docs/article-page/4.1/csharp/client-api/data-subscriptions/creation/api-overview#create-and-createasync-overloads-summary)
+
+
