@@ -1,6 +1,6 @@
 baseURL: https://example.com/
 theme: pure
-title: Pure theme for Hugo
+title: Jake's code journal - mostly for Jake
 defaultContentLanguage: en  # en/zh/...
 footnoteReturnLinkContents: ↩
 hasCJKLanguage: true
@@ -82,7 +82,7 @@ params:
   profile:
     enabled: true # Whether to show profile bar
     avatar: avatar.png
-    gravatar: jake@jakebladt.com
+    gravatar: jake@jakebladt.com # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
     author: Jake Bladt
     author_title: Code Journal
     author_description: Good Good Study, Day Day Up~
