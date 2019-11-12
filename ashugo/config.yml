@@ -82,11 +82,11 @@ params:
   profile:
     enabled: true # Whether to show profile bar
     avatar: avatar.png
-    gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-    author: xiaoheiAh
-    author_title: author title
+    gravatar: jake@jakebladt.com
+    author: Jake Bladt
+    author_title: Code Journal
     author_description: Good Good Study, Day Day Up~
-    location: Shanghai, China
+    location: New York, NY
     follow: https://github.com/xiaoheiAh
     # Social Links
     social:
